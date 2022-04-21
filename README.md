@@ -1,2 +1,2 @@
 # gitops-homelab
-A repository for dev/testing kubernetes deployments with GitOps
+A repository for dev/testing Kubernetes deployments with GitOps
